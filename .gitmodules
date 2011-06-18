@@ -1,0 +1,3 @@
+[submodule "penjin"]
+	path = penjin
+	url = https://github.com/pokeparadox/PenjinTwo.git
